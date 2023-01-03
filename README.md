@@ -1,7 +1,7 @@
-# 111-Dct-Ai-Project\n
-\n
-測試影片\n
-https://youtu.be/VovK4KxS4WU\n
+# 111-Dct-Ai-Project
+
+測試影片
+https://youtu.be/VovK4KxS4WU
 
 操作流程\n
 1.開啟app4ai，安裝yolov7\n
