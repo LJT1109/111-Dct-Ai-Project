@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<annotation>
+    <folder>images</folder>
+    <filename>{filename}</filename>
+    <path>{filename}</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>256</width>
+        <height>256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+{m_object}
+</annotation>
