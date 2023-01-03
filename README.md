@@ -1,10 +1,10 @@
-# 111-Dct-Ai-Project
+# 111-Dct-Ai-Project\n
+\n
+測試影片\n
+https://youtu.be/VovK4KxS4WU\n
 
-測試影片
-https://youtu.be/VovK4KxS4WU
-
-操作流程
-1.開啟app4ai，安裝yolov7
+操作流程\n
+1.開啟app4ai，安裝yolov7\n
 2.開啟yolov7
 3.建立新Dataset
 4.開啟Dataset資料夾
