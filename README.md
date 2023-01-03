@@ -3,7 +3,7 @@
 測試影片
 https://youtu.be/VovK4KxS4WU
 
-操作流程\n
+操作流程
 1.開啟app4ai，安裝yolov7\n
 2.開啟yolov7
 3.建立新Dataset
